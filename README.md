@@ -5,7 +5,9 @@ Provided in this repository is a code sample taken from just one of games I deve
 Apart from this code sample, you can visit these group links to view my full portfolio of published games developed over the past 6 years on the Roblox platform:
 
 Link 1: https://www.roblox.com/groups/3314934/HALFBYTE
+
 Link 2: https://www.roblox.com/groups/5612531/Sungaze
+
 Link 3: https://www.roblox.com/groups/10302151/Metavision
 
 My Roblox Profile:
