@@ -1,6 +1,6 @@
 # Lua-Code-Samples
 
-Provided in this repository is a code sample taken from just one of the games I developed (see PropertyHandler.lua). The code in this script manages some of the lot and property features in the game: purchasing, editing, loading, and interactions. It also shows how it works together with other modules and player data. 
+Provided in this repository is a code sample taken from just one of the games I developed called Lawless (see PropertyHandler.lua). The code in this script manages some of the lot and property features in the game: purchasing, editing, loading, and interactions. It also shows how it works together with other modules and player data. 
 
 Apart from this code sample, you can visit these group links to view my full portfolio of published games. These are games I developed over the past 6 years on the platform so please keep in mind that some game visuals and UI design quality may vary based on the game's age and support:
 
